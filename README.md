@@ -1,4 +1,6 @@
-## Hi there 👋
+# 현모의 깃허브
+
+## 늦게 배운 코린이 양현모입니다.
 
 <!--
 **YangHyunMo/YangHyunMo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
